@@ -5,6 +5,7 @@ import java.util.Scanner;
 public class Main {
     public static boolean isPrime(int n) {
         if (n == 2) return true;
+        //dgdhgudhgidhti
         if (n < 2) {
             return false;
         }
